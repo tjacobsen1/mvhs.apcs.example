@@ -26,3 +26,4 @@
 
 ## Problems
 * commit with -m -> Use Esct :wq to quit Vim
+* wrong message -> git commit --amend -m "New Message"
