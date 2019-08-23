@@ -30,6 +30,6 @@ Add `*.class` to the .gitignore file and save it
 * git checkout -- filename -> discard changes
 
 ## Problems
-* commit with -m -> Use Esct :wq to quit Vim
+* commit with -m -> Use Esc :wq to quit Vim
 * wrong message -> git commit --amend -m "New Message"
 * Wrong commit -> git checkout COMMIT_ID
